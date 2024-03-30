@@ -4,7 +4,7 @@
 // @match       https://www.techinterviewhandbook.org/grind75*
 // @grant       none
 // @version     1.0
-// @author      rms
+// @author      https://github.com/remusa
 // @description 3/20/2024, 1:14:49 AM
 // @require     https://raw.githubusercontent.com/eligrey/FileSaver.js/master/dist/FileSaver.min.js
 // ==/UserScript==

@@ -2,6 +2,14 @@
 
 Import and export tool for [Grind75 of TechInterviewHandbook.org](https://www.techinterviewhandbook.org/grind75)
 
+![Tool functionality](2024-03-30-00-57-09.png)
+
+## Import
+
+Importing the file will update the **completed** questions and update the URL to include the stored preferences.
+
+## Export
+
 Clicking the **export** button will download a `JSON` file with the following information:
 
 ```json
@@ -91,4 +99,3 @@ Clicking the **export** button will download a `JSON` file with the following in
 }
 ```
 
-Importing the file will update the **completed** questions and update the URL to include the stored preferences.
